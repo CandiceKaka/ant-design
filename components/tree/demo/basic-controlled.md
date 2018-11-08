@@ -25,7 +25,7 @@ const treeData = [{
     title: '0-0-0',
     key: '0-0-0',
     children: [
-      { title: '0-0-0-0', key: '0-0-0-0' },
+      { title: '0-0-0-0', key: '0-0-0-0', disable: true },
       { title: '0-0-0-1', key: '0-0-0-1' },
       { title: '0-0-0-2', key: '0-0-0-2' },
     ],
